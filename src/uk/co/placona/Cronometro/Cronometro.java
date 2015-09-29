@@ -1,6 +1,6 @@
-package uk.co.placona.helloWorld;
+package uk.co.placona.Cronometro;
 
-public class HelloWorld {
+public class Cronometro {
 
 	public String sayHello() {
 		return "Hello World";
