@@ -19,7 +19,7 @@ public class CronometroTest {
   public void testCronometroEnUno(){
     Cronometro cronometro = new Cronometro();
     cronometro.incrementar();
-    assertEquals("Probar el cronometro en uno", "0 minutos 1 segundos", cronometro.mostrarValor());
+    assertEquals("Probar el cronometro en uno", "0 minutos 1 segundo", cronometro.mostrarValor());
   }
 
 }
